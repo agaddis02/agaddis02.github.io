@@ -18,7 +18,7 @@ $$
 \{\underbrace{%
     \overbrace{a,\ldots, a}^{k\ a's},
     \overbrace{b,\ldots, b}^{l\ b's}}
-  _{k+l\ \mathrm{elements}}        \}
+  _{k+l\ \mathrm{elements}}%}        \}
 $$
 
 <div className="mt4" />
