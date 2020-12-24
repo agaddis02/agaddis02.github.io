@@ -1,5 +1,5 @@
 import { Link } from "gatsby"
-import React from "react"
+import * as React from "react"
 import { slide as Menu } from "react-burger-menu"
 import SocialLinks from "../SocialLinks/sociallinks"
 

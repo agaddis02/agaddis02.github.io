@@ -6,7 +6,7 @@
 
 import "katex/dist/katex.min.css"
 
-import React from "react"
+import * as React from "react"
 import { MDXProvider } from "@mdx-js/react"
 import Highlight, { defaultProps } from "prism-react-renderer"
 import github from "prism-react-renderer/themes/github"
