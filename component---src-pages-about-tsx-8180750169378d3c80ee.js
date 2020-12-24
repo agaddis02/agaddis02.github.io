@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{"2l/u":function(e,t,n){"use strict";n.r(t),n.d(t,"default",(function(){return a}));var l=n("q1tI"),c=n("sNzC"),o=n("cElI");function a(e){return l.createElement(c.a,null,l.createElement(o.a,{title:"siteTitle"}),l.createElement("section",{className:"About"},l.createElement("h1",null," Content Coming Soon ")))}}}]);
+//# sourceMappingURL=component---src-pages-about-tsx-8180750169378d3c80ee.js.map
