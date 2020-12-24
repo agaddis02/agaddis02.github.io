@@ -1,6 +1,4 @@
 module.exports = {
-
-	pathPrefix: "/",
 	siteMetadata: {
 		// Update these and enjoy :)
 		title: `Adam Gaddis's Personal Portfolio`,
