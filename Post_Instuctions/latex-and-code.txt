@@ -12,14 +12,6 @@ To learn more about implementing $\LaTeX$ in markdown, check out the [documentat
 
 # $\LaTeX$ Examples
 
-Consider the following list of k a's and l b's:
-
-$$
-\{\underbrace{%
-    \overbrace{a,\ldots, a}^{k\ a's},
-    \overbrace{b,\ldots, b}^{l\ b's}%}
-  _{k+l\ \mathrm{elements}}        \}
-$$
 
 <div className="mt4" />
 
